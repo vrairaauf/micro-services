@@ -1,0 +1,14 @@
+asgiref             
+Django              
+djangorestframework 
+pip                 
+pytz                
+setuptools          
+sqlparse            
+typing-extensions   
+django-cors-headers 
+django-mysql        
+mysqlclient         
+pika
+django-filter
+pillow                
